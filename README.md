@@ -94,7 +94,7 @@
 </div>
 
 ```
-🔭  working on  →  Team Altair URC Rover "Musafir 3.0" (ROS2 + YOLOv11)
+
 🌱  learning    →  Advanced C++ · PL/pgSQL · Computer Architecture
 💡  building    →  EcoTann — AI-powered toxic waste detox for tanneries
 🎯  goal        →  ship cool open-source projects 🐱
