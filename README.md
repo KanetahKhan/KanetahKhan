@@ -3,9 +3,9 @@
 <!-- ===== PIXEL HEADER ===== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb7c5,ffd6e0,ffc8dd,ffb7c5&height=180&section=header&text=KanetahKhan&fontSize=42&fontColor=7c3a5e&fontAlignY=45&desc=★%20professional%20procrastinator%20★&descSize=13&descAlignY=68&descColor=c06080&animation=fadeIn" width="100%"/>
 
-<!-- ===== CAT VIDEO 1 ===== -->
+<!-- ===== CAT GIF 1 ===== -->
 <br>
-<video src="https://github.com/KanetahKhan/KanetahKhan/raw/main/assets/WhatsApp%20Video%202026-03-10%20at%2011.03.14%20PM.mp4" width="300" autoplay loop muted></video>
+<img src="https://github.com/KanetahKhan/KanetahKhan/raw/main/assets/WhatsAppVideo2026-03-10at11.03.14PM-ezgif.com-optimize.gif" width="300" alt="cat gif"/>
 <br>
 
 <!-- ===== ANIMATED GREETING ===== -->
@@ -114,7 +114,7 @@
 
 <br>
 
-<video src="https://github.com/KanetahKhan/KanetahKhan/raw/main/assets/WhatsApp%20Video%202026-03-10%20at%2011.03.13%20PM.mp4" width="300" autoplay loop muted></video>
+<img src="https://github.com/KanetahKhan/KanetahKhan/raw/main/assets/WhatsAppVideo2026-03-10at11.03.13PM-ezgif.com-video-to-gif-converter.gif" width="300" alt="cat gif"/>
 
 <br>
 
