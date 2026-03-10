@@ -24,7 +24,7 @@
 🐱  name   →  Kanetah Khan
 📍  based  →  Dhaka, Bangladesh
 🎓  study  →  CSE @ Islamic University of Technology
-🤖  hobby  →  Robotics (URC) · Competitive Programming
+🤖  hobby  →  Competitive Programming
 ✨  vibe   →  debugging at 2am with a cat gif open
 🌙  dream  →  building cool things that matter
 ```
