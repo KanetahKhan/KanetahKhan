@@ -1,11 +1,15 @@
 <div align="center">
 
 <!-- ===== PIXEL HEADER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffb7c5,ffd6e0,ffc8dd,ffb7c5&height=180&section=header&text=KanetahKhan&fontSize=42&fontColor=7c3a5e&fontAlignY=45&desc=★%20coder%20%7C%20cat%20person%20%7C%20professional%20procrastinator%20★&descSize=13&descAlignY=68&descColor=c06080&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ffb7c5,ffd6e0,ffc8dd,ffb7c5&height=180&section=header&text=KanetahKhan&fontSize=42&fontColor=7c3a5e&fontAlignY=45&desc=★%20professional%20procrastinator%20★&descSize=13&descAlignY=68&descColor=c06080&animation=fadeIn" width="100%"/>
 
 <!-- ===== PIXEL CAT GIF ===== -->
 <br>
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="160" alt="pixel cat"/>
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px"/>
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px"/>
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px"/>
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="120" alt="pixel cat"/>
 <br>
 
 <!-- ===== ANIMATED GREETING ===== -->
@@ -114,7 +118,7 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif" width="120" alt="pixel waving cat"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="80" alt="pixel cat"/>
 
 <br>
 
