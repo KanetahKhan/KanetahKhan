@@ -26,7 +26,7 @@
 🐱  name   →  Kanetah Khan
 🎓  study  →  CSE @ Islamic University of Technology
 ✨  vibe   →  professional procrastinator
-🌙  hobby  →  competitive programming · cat gifs
+🌙  hobby  →  sleeping,doomscrollng
 💤  mode   →  will do it tomorrow (probably)
 ```
 
